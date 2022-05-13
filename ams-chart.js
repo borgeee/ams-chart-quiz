@@ -45,7 +45,7 @@ var xAxis = chart.xAxes.push(am5xy.CategoryAxis.new(root, {
 
 var yAxis = chart.yAxes.push(am5xy.ValueAxis.new(root, {
   min: 0,
-  max: 10,
+  max: 7,
   renderer: am5radar.AxisRendererRadial.new(root, {
     minGridDistance: 20
   })
