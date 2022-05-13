@@ -18,8 +18,11 @@ h2 {
 }
 
 .areas .value {
-  display: inline-block;
-  font-size: 1.3em;
+  /*display: inline-block;*/
+  display: block;
+  width: 30%;
+  margin: 10px auto;
+  font-size: 1em;
   padding: 5px 10px;
   border: 1px solid #ddd;
   cursor: pointer;
