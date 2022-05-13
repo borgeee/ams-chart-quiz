@@ -14,10 +14,7 @@ body {
 }
 
 .areas .value {
-  /*display: inline-block;*/
-  display: block;
-  margin: 10px auto;
-  width: 50%;
+  display: inline-block;
   font-size: 1.3em;
   padding: 5px 10px;
   border: 1px solid #ddd;
