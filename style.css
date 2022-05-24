@@ -23,11 +23,11 @@ h2 {
   width: 30%;
   margin: 10px auto;
   font-size: 1em;
-  padding: 5px 10px;
+  padding: 10px;
   border: 1px solid #ddd;
   cursor: pointer;
 }
 
 .areas .value:hover {
-  background: #ecc;
+  background: #68cdc2;
 }
